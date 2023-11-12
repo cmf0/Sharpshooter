@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664670154 source:e:\transferências\projects\shooter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
